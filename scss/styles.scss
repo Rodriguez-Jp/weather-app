@@ -44,4 +44,9 @@ body {
 .weather-info {
   @include flexCenter;
   flex-direction: column;
+
+  i {
+    font-size: 2rem;
+    display: none;
+  }
 }

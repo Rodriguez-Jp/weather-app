@@ -78,4 +78,9 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
 }
+
+.weather-info i {
+  font-size: 2rem;
+  display: none;
+}
 /*# sourceMappingURL=styles.css.map */
